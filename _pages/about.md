@@ -44,7 +44,7 @@ My research interest includes evaluation and knowledge injection for large langu
 - *2017.08 - 2021.07*, Undergraduate Student, Department of Electronic Engineering, Tsinghua University (GPA: 3.85/4.00).
 
 # 💬 Invited Talks
-- Coming Soon
+- 2024.12 I gave a talk about MultifacetEval on the NLP Academic Exchange Platform. You can find replay [here](https://nice-nlp.github.io)
 
 # 💻 Internships
 - *2022.05 - Present*, iFlyTek, Beijing, China.
