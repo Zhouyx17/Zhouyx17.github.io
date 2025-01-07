@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a fourth-year PhD student in the Department of Electronic Engineering at Tsinghua University, supervised by Professor Wu Ji. I also received my Bachelor degree from the Department of Electronic Engineering at Tsinghua University. I am currently an intern researcher at iFLYTEK.
 
-My research interest includes evaluation and knowledge injection for large language models. I have published 4 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=RxWuu7gAAAAJ'>google scholar citations <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interest includes evaluation and knowledge injection for large language models. I have published 4 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=RxWuu7gAAAAJ'>google scholar citations <a href='https://scholar.google.com/citations?user=RxWuu7gAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 # 🔥 News
