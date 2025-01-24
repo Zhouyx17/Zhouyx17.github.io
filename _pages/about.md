@@ -23,16 +23,17 @@ My research interest includes evaluation and knowledge injection for large langu
 
 
 # 🔥 News
+- *2025.01*: Our paper *Reliable and diverse evaluation of LLM medical knowledge mastery* has been accepted by **The Thirteenth International Conference on Learning Representations (ICLR-25)**. Codes and Datasets will be out soon!
 - *2024.04*: Our paper *MultifacetEval: Multifaceted Evaluation to Probe LLMs in Mastering Medical Knowledge* has been accepted by **the Thirty-Third International Joint Conference on Artificial Intelligence (IJCAI-24)**. Codes and Datasets are available [here](https://github.com/Zhouyx17/MultifacetEval).
 
-# 📝 Publications 
 
+# 📝 Publications 
 
 - [THiFly_Queens at SemEval-2021 Task 9: Two-stage Statement Verification with Adaptive Ensembling and Slot-based Operation](https://aclanthology.org/2021.semeval-1.50.pdf), **Yuxuan Zhou**, Kaiyin Zhou, Xien Liu, Ji Wu, Xiaodan Zhu, **SemEval 2021**.
 - [Table-based fact verification with self-adaptive mixture of experts](https://aclanthology.org/2022.findings-acl.13.pdf), **Yuxuan Zhou**, Xien Liu, Kaiyin Zhou, Ji Wu, **Findings of ACL 2022**.
 - [THiFLY Research at SemEval-2023 Task 7: A Multi-granularity System for CTR-based Textual Entailment and Evidence Retrieval](https://aclanthology.org/2023.semeval-1.234.pdf), **Yuxuan Zhou**, Ziyu Jin, Meiwei Li, Miao Li, Xien Liu, Xinxin You, Ji Wu, **SemEval 2023**.
 - [MultifacetEval: Multifaceted Evaluation to Probe LLMs in Mastering Medical Knowledge](https://www.ijcai.org/proceedings/2024/0737.pdf), **Yuxuan Zhou**, Xien Liu, Chen Ning, Ji Wu, **IJCAI 2024** (12 Min Oral).
-- Reliable and diverse evaluation of LLM medical knowledge mastery, **Yuxuan Zhou**, Xien Liu, Chen Ning, Ji Wu, Preprint.
+- Reliable and diverse evaluation of LLM medical knowledge mastery, **Yuxuan Zhou**, Xien Liu, Chen Ning, Ji Wu, **Accepted by ICLR 2025**.
 
 # 🎖 Honors and Awards
 - *2022-2023* Tsinghua Alumni - Pinghu Talents Scholarship (Second Class). 
