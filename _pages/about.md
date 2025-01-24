@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a fourth-year PhD student in the Department of Electronic Engineering at Tsinghua University, supervised by Professor Wu Ji. I also received my Bachelor degree from the Department of Electronic Engineering at Tsinghua University. I am currently an intern researcher at iFLYTEK.
 
-My research interest includes evaluation and knowledge injection for large language models. I have published 4 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=RxWuu7gAAAAJ'>google scholar citations <a href='https://scholar.google.com/citations?user=RxWuu7gAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interest includes evaluation and knowledge injection for large language models. I have published 5 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=RxWuu7gAAAAJ'>google scholar citations <a href='https://scholar.google.com/citations?user=RxWuu7gAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 # 🔥 News
@@ -34,6 +34,11 @@ My research interest includes evaluation and knowledge injection for large langu
 - [THiFLY Research at SemEval-2023 Task 7: A Multi-granularity System for CTR-based Textual Entailment and Evidence Retrieval](https://aclanthology.org/2023.semeval-1.234.pdf), **Yuxuan Zhou**, Ziyu Jin, Meiwei Li, Miao Li, Xien Liu, Xinxin You, Ji Wu, **SemEval 2023**.
 - [MultifacetEval: Multifaceted Evaluation to Probe LLMs in Mastering Medical Knowledge](https://www.ijcai.org/proceedings/2024/0737.pdf), **Yuxuan Zhou**, Xien Liu, Chen Ning, Ji Wu, **IJCAI 2024** (12 Min Oral).
 - Reliable and diverse evaluation of LLM medical knowledge mastery, **Yuxuan Zhou**, Xien Liu, Chen Ning, Ji Wu, **Accepted by ICLR 2025**.
+# 🏆 Academic Competitions
+
+- **1st** place on the Task 7 (Multi-evidence Natural Language Inference for Clinical Trial Data) of 17th International Workshop on Semantic Evaluation (**SemEval 2023**)
+- **2nd** place on the Task 9 (Fact Verification and Evidence Finding for Tabular Data in Scientific Documents) of 15th International Workshop on Semantic Evaluation (**SemEval 2021**)
+
 
 # 🎖 Honors and Awards
 - *2022-2023* Tsinghua Alumni - Pinghu Talents Scholarship (Second Class). 
