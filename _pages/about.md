@@ -33,7 +33,7 @@ My research interest includes evaluation and knowledge injection for large langu
 - [Table-based fact verification with self-adaptive mixture of experts](https://aclanthology.org/2022.findings-acl.13.pdf), **Yuxuan Zhou**, Xien Liu, Kaiyin Zhou, Ji Wu, **Findings of ACL 2022**.
 - [THiFLY Research at SemEval-2023 Task 7: A Multi-granularity System for CTR-based Textual Entailment and Evidence Retrieval](https://aclanthology.org/2023.semeval-1.234.pdf), **Yuxuan Zhou**, Ziyu Jin, Meiwei Li, Miao Li, Xien Liu, Xinxin You, Ji Wu, **SemEval 2023**.
 - [MultifacetEval: Multifaceted Evaluation to Probe LLMs in Mastering Medical Knowledge](https://www.ijcai.org/proceedings/2024/0737.pdf), **Yuxuan Zhou**, Xien Liu, Chen Ning, Ji Wu, **IJCAI 2024** (12 Min Oral).
-- Reliable and diverse evaluation of LLM medical knowledge mastery, **Yuxuan Zhou**, Xien Liu, Chen Ning, Ji Wu, **ICLR 2025**.
+- [Reliable and diverse evaluation of LLM medical knowledge mastery](https://openreview.net/pdf?id=TXfzH933qV), **Yuxuan Zhou**, Xien Liu, Chen Ning, Ji Wu, **ICLR 2025**.
 
 # 🏆 Academic Competitions
 
