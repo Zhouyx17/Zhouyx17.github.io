@@ -23,7 +23,7 @@ My research interest includes evaluation and knowledge injection for large langu
 
 
 # 🔥 News
-- *2025.01*: Our paper *Evaluating LLMs Across Multi-Cognitive Levels: From Medical Knowledge Mastery to Scenario-Based Problem Solving* has been accepted by **Forty-Second International Conference on Machine Learning (ICML-25)**. Codes and Datasets will be out soon!
+- *2025.05*: Our paper *Evaluating LLMs Across Multi-Cognitive Levels: From Medical Knowledge Mastery to Scenario-Based Problem Solving* has been accepted by **Forty-Second International Conference on Machine Learning (ICML-25)**. Codes and Datasets will be out soon!
 - *2025.01*: Our paper *Reliable and diverse evaluation of LLM medical knowledge mastery* has been accepted by **The Thirteenth International Conference on Learning Representations (ICLR-25)**. Codes and Datasets are available [here](https://github.com/THUMLP/PretexEval).
 - *2024.04*: Our paper *MultifacetEval: Multifaceted Evaluation to Probe LLMs in Mastering Medical Knowledge* has been accepted by **the Thirty-Third International Joint Conference on Artificial Intelligence (IJCAI-24)**. Codes and Datasets are available [here](https://github.com/Zhouyx17/MultifacetEval).
 
