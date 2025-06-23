@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a fourth-year PhD student in the Department of Electronic Engineering at Tsinghua University, supervised by Professor Wu Ji. I also received my Bachelor degree from the Department of Electronic Engineering at Tsinghua University. I am currently an intern researcher at iFLYTEK.
+I am currently a fourth-year PhD student in the Department of Electronic Engineering at Tsinghua University, supervised by Professor Wu Ji. I also received my Bachelor degree from the Department of Electronic Engineering at Tsinghua University. **I am looking for job opportunities!**
 
 My research interest includes evaluation and knowledge injection for large language models. I have published 5 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=RxWuu7gAAAAJ'>google scholar citations <a href='https://scholar.google.com/citations?user=RxWuu7gAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
@@ -56,4 +56,5 @@ My research interest includes evaluation and knowledge injection for large langu
 - 2024.12 I gave a talk about MultifacetEval on the NLP Academic Exchange Platform. You can find replay [here](https://www.bilibili.com/video/BV1A66nYBEAz/?vd_source=bd41c455b6dfc0623f688255c558376f)
 
 # 💻 Internships
-- *2022.05 - Present*, iFlyTek, Beijing, China.
+- *2022.05 - 2025.05*, iFlyTek, Beijing, China.
+- *2025.06 - Present*, Decision-making and Reasoning Laboratory, Noah's Ark Laboratory, Huawei, Beijing, China.
