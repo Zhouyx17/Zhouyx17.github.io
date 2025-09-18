@@ -25,10 +25,9 @@ My research interest includes evaluation and knowledge injection for large langu
 
 
 # 🔥 News
+- *2025.09*: Our paper *Investigating and Mitigating Catastrophic Forgetting in Medical Knowledge Injection through Internal Knowledge Augmentation Learning.* has been accepted by **The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS-25)**. Codes will be made publicly available soon!
 - *2025.05*: Our paper *Evaluating LLMs Across Multi-Cognitive Levels: From Medical Knowledge Mastery to Scenario-Based Problem Solving* has been accepted by **Forty-Second International Conference on Machine Learning (ICML-25)**. Codes and Datasets are available [here](https://github.com/THUMLP/MultiCogEval).
 - *2025.01*: Our paper *Reliable and diverse evaluation of LLM medical knowledge mastery* has been accepted by **The Thirteenth International Conference on Learning Representations (ICLR-25)**. Codes and Datasets are available [here](https://github.com/THUMLP/PretexEval).
-- *2024.04*: Our paper *MultifacetEval: Multifaceted Evaluation to Probe LLMs in Mastering Medical Knowledge* has been accepted by **the Thirty-Third International Joint Conference on Artificial Intelligence (IJCAI-24)**. Codes and Datasets are available [here](https://github.com/Zhouyx17/MultifacetEval).
-
 
 # 📝 Publications 
 
@@ -38,6 +37,7 @@ My research interest includes evaluation and knowledge injection for large langu
 - [MultifacetEval: Multifaceted Evaluation to Probe LLMs in Mastering Medical Knowledge](https://www.ijcai.org/proceedings/2024/0737.pdf), **Yuxuan Zhou**, Xien Liu, Chen Ning, Ji Wu, **IJCAI 2024** (12 Min Oral).
 - [Reliable and diverse evaluation of LLM medical knowledge mastery](https://openreview.net/pdf?id=TXfzH933qV), **Yuxuan Zhou**, Xien Liu, Chen Ning, Ji Wu, **ICLR 2025**.
 - [Evaluating LLMs Across Multi-Cognitive Levels: From Medical Knowledge Mastery to Scenario-Based Problem Solving](https://openreview.net/pdf?id=sgrJs7dbWC), **Yuxuan Zhou**, Xien Liu, Chenwei Yan, Chen Ning, Xiao Zhang, Boxun Li, Xiangling Fu, Shijin Wang, Guoping Hu, Yu Wang, Ji Wu, **ICML 2025**.
+- Investigating and Mitigating Catastrophic Forgetting in Medical Knowledge Injection through Internal Knowledge Augmentation Learning. **Yuxuan Zhou**, Xien Liu, Xiao Zhang, Chen Ning, Shijin Wang, Guoping Hu, Ji Wu. **Accepted by NeurIPS 2025**.
 
 # 🏆 Academic Competitions
 
