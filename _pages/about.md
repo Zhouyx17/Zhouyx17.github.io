@@ -57,4 +57,4 @@ My research interest includes evaluation and knowledge injection for large langu
 
 # 💻 Internships
 - *2022.05 - 2025.05*, iFlyTek, Beijing, China.
-- *2025.06 - Present*, Decision-making and Reasoning Laboratory, Noah's Ark Laboratory, Huawei, Beijing, China.
+- *2025.06 - 2025.12*, Decision-making and Reasoning Laboratory, Noah's Ark Laboratory, Huawei, Beijing, China.
