@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a fifth-year PhD student in the Department of Electronic Engineering at Tsinghua University, supervised by Professor Wu Ji. I also received my Bachelor degree from the Department of Electronic Engineering at Tsinghua University. 
+I received my PhD degree from the Department of Electronic Engineering at Tsinghua University in 2026 under the supervision of Professor Wu Ji. I also received my Bachelor degree from the Department of Electronic Engineering at Tsinghua University in 2021. 
 
 My research interest includes evaluation and knowledge injection for large language models. I have published 5 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=RxWuu7gAAAAJ'>google scholar citations <a href='https://scholar.google.com/citations?user=RxWuu7gAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
@@ -49,7 +49,7 @@ My research interest includes evaluation and knowledge injection for large langu
 - *2024-2025* Tsinghua Alumni - Jining Talents Scholarship (Second Class). 
 
 # 📖 Educations
-- *2021.08 - Present*, PhD Student, Department of Electronic Engineering, Tsinghua University (GPA: 3.99/4.00).
+- *2021.08 - 2026.07*, PhD Student, Department of Electronic Engineering, Tsinghua University (GPA: 3.99/4.00).
 - *2017.08 - 2021.07*, Undergraduate Student, Department of Electronic Engineering, Tsinghua University (GPA: 3.85/4.00).
 
 # 💬 Invited Talks
