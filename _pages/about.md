@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received my PhD degree from the Department of Electronic Engineering at Tsinghua University in 2026 under the supervision of Professor Wu Ji. I also received my Bachelor degree from the Department of Electronic Engineering at Tsinghua University in 2021. 
+I am now an LLM post-training engineer at Tencent, based in Beijing. I received my PhD degree from the Department of Electronic Engineering at Tsinghua University in 2026 under the supervision of Professor Wu Ji. I also received my Bachelor degree from the Department of Electronic Engineering at Tsinghua University in 2021. 
 
-My research interest includes evaluation and knowledge injection for large language models. I have published 5 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=RxWuu7gAAAAJ'>google scholar citations <a href='https://scholar.google.com/citations?user=RxWuu7gAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interest includes evaluation and knowledge injection for large language models, especially in the medical domain. I have published 5 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=RxWuu7gAAAAJ'>google scholar citations <a href='https://scholar.google.com/citations?user=RxWuu7gAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 # 🔥 News
@@ -58,3 +58,6 @@ My research interest includes evaluation and knowledge injection for large langu
 # 💻 Internships
 - *2022.05 - 2025.05*, iFlyTek, Beijing, China.
 - *2025.06 - 2025.12*, Decision-making and Reasoning Laboratory, Noah's Ark Laboratory, Huawei, Beijing, China.
+
+# 💼 Careers
+- *2026.07 - present*, Tencent, Beijing, China.
